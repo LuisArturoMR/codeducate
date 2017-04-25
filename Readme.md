@@ -20,11 +20,11 @@ Desarrollar una solución eTesting utilizando un lenguaje de programacin multipa
 ## 1. Descripción de solución
 
 Se creará una plataforma web utilizando una libreria de Racket llamada Web Servlets que se
-enfocará en darle a la posibilidad a los profesores de crear examenes efectivos para desarrolladores (alumnos), donde podrá hacer preguntas de código y la plataforma podrá inteetarlo gracias a libreria de Racket que usaremos.
+enfocará en darle a la posibilidad a los profesores de crear examenes efectivos para desarrolladores (alumnos), donde podrá hacer preguntas de código y la plataforma podrá intenetarlo gracias a libreria de Racket que usaremos.
 
 Actualmente no existe ninguna plataforma para hacer exámenes que permita interpretar código, para los alumnos de carreras como ISC es díficil que les pongan pruebas de código. Creemos que es una gran oportunidad para explotar esta área.
 
-El lenguaje que vamos a interpretar será Javascript.
+El lenguaje que vamos a interpretar será Python.
 
 ### Se podrá realizar:
 #### Alumno
