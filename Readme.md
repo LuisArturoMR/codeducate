@@ -10,7 +10,7 @@ Proyecto de la clase de Lenguajes de Programación dada por la maestra Laura Tor
 para el Tecnológico de Monterrey Campus Guadalajara.
 
 ## Objetivo:
-Desarrollar una solución eTesting utilizando un lenguaje de programacin multiparadigma
+Desarrollar una solución eTesting utilizando un lenguaje de programación multiparadigma
 
 ## Actividades:
   1) Redactar el documento con las especificaciones eTesting de la solucion propuesta
@@ -20,7 +20,7 @@ Desarrollar una solución eTesting utilizando un lenguaje de programacin multipa
 ## 1. Descripción de solución
 
 Se creará una plataforma web utilizando una libreria de Racket llamada Web Servlets que se
-enfocará en darle a la posibilidad a los profesores de crear examenes efectivos para desarrolladores (alumnos), donde podrá hacer preguntas de código y la plataforma podrá intenetarlo gracias a libreria de Racket que usaremos.
+enfocará en crear material del cual los alumnos puedan contestar utilizando el lenguaje de Python. Por el momento solo esta en el nivel del análisis léxico que les dejaría saber si al menos en cuanto a la gramatica de indentación esta el código como debe de ser. El código lo escriben en cuadro y ese código se manda al servidor de racket para que lo interprete el analizador léxico y así regrese la respuesta de la indentación.
 
 Actualmente no existe ninguna plataforma para hacer exámenes que permita interpretar código, para los alumnos de carreras como ISC es díficil que les pongan pruebas de código. Creemos que es una gran oportunidad para explotar esta área.
 
@@ -28,14 +28,7 @@ El lenguaje que vamos a interpretar será Python.
 
 ### Se podrá realizar:
 #### Alumno
-* Preguntas con opciones multiples
-* Preguntas con introducción de texto
 * Preguntas con código (Ventana para agregar código)
-
-#### Profesor
-El profesor podrá tener permisos de administrador. Podrá hacer lo siguiente:
-* Crear Examen
-* Ver resultados
 
 
 ## Referencias:
