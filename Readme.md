@@ -33,6 +33,7 @@ El lenguaje que vamos a interpretar será Python.
 
 ## Referencias:
 https://docs.racket-lang.org/web-server/
+http://matt.might.net/articles/lexers-in-racket/
 
 ## 2. Documento
 Actualmente se puede parsear el html desde el racket e inicializar un server desde localhost.
